@@ -2,13 +2,15 @@ body{
   background-color: #BCF1FF;
   display: flex;
   justify-content: center;
-  max-width: 1140px;
+  max-width: 95%;
   font-family: sans-serif;
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
   background-color: #BCF1FF;
-  width: 95%;
+  width: 98%;
 }
 
 .encabezado{
